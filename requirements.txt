@@ -1,0 +1,10 @@
+torch==2.4.1
+fair-esm==2.0.0
+numpy==1.26.4
+pandas==2.3.2
+pyarrow==17.0.0
+scipy==1.17.1
+scikit-learn==1.8.0
+networkx==3.6.1
+gensim==4.4.0
+tqdm==4.67.3
