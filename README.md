@@ -63,6 +63,18 @@ Protein sequences, GO annotations and the train/validation/test splits are taken
 | Gene Ontology (`go-basic.obo`) | https://geneontology.org |
 | ProtVec 3-gram vectors | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JMFHTN |
 
+## Installation
+
+```bash
+git clone git@github.com:ShreyaSwarnaker/PIFNet.git
+cd PIFNet
+pip install -r requirements.txt
+```
+
+Homology blending also requires [DIAMOND](https://github.com/bbuchfink/diamond).
+
+---
+
 ## Usage
 
 Set the data and output folders:
